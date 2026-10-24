@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cyber Shrine Default Dark Palette -->
+    <color name="yokai_obsidian">#FF0A0B0E</color>
+    <color name="yokai_surface">#FF12141A</color>
+    <color name="yokai_card">#FF181B22</color>
+    <color name="yokai_kitsune_cyan">#FF00E5FF</color>
+    <color name="yokai_torii_crimson">#FFFF2A54</color>
+
+    <!-- Yin Yang Monochrome Palette -->
+    <color name="yokai_sumi_ink">#FF000000</color>
+    <color name="yokai_spirit_white">#FFFFFFFF</color>
+
+    <!-- Blood Moon Torii Palette -->
+    <color name="yokai_charcoal_ash">#FF0F0D0D</color>
+    <color name="yokai_torii_vermilion">#FFFF4D2D</color>
+    <color name="yokai_kitsune_gold">#FFC5A059</color>
+</resources>

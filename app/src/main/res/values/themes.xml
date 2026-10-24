@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.YokaiHub" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/yokai_obsidian</item>
+        <item name="android:navigationBarColor">@color/yokai_obsidian</item>
+        <item name="android:windowBackground">@color/yokai_obsidian</item>
+    </style>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YOKAI HUB</string>
+    <string name="app_subtitle">妖怪ハブ • Autonomous AI &amp; MCP Workspace</string>
+    <string name="splash_skip_hint">Tap anywhere to skip</string>
+</resources>
